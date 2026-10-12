@@ -1,0 +1,24 @@
+{
+  "name": "pmFit - ポップンカロリー計算&管理",
+  "short_name": "pmFit",
+  "description": "ポップンミュージックのリザルト写真から消費カロリー・食べ物換算を自動解析＆管理できるPWAアプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
